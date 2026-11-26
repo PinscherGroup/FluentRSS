@@ -38,8 +38,8 @@ FluentRSS can be downloaded from the Microsoft Store:
 <p>
   <a style="text-decoration:none" href="https://apps.microsoft.com/detail/9PLS55HB290H">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="assets/MicrosoftStoreDark.png" width="160" />
-      <img src="assets/MicrosoftStoreLight.png" width="160" />
+      <source media="(prefers-color-scheme: light)" srcset="MicrosoftStoreDark.png" width="160" />
+      <img src="MicrosoftStoreLight.png" width="160" />
   </picture></a>
 </p>
 
